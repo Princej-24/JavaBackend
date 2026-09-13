@@ -13,4 +13,3 @@ Math.round(88.41)
 {/* <style> #first color:red;
 <body> <div id="first">First div</div> </body> */}
 // Query selector() :it is a DOM method used to select the first HTML element that matches a CSS selector
-// 
